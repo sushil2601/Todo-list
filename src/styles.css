@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.input {
+  padding: 8px;
+  margin: 5px;
+}
+
+.button {
+  padding: 8px;
+}
+
+.strike-through {
+  text-decoration: line-through;
+  margin: 2px;
+  padding: 2px;
+}
+
+.list {
+  padding: 3px;
+  margin: 2px;
+}
+
+.delete {
+  padding: 3px;
+  margin: 2px;
+}
+
+.todo-container {
+  padding: 2px;
+  margin: 2px;
+}
